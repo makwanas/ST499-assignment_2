@@ -1,0 +1,15 @@
+.WorkspaceBody{
+    display:flex;
+    height: 100%;
+}
+
+.SidebarBody{
+    flex-basis: 11.5%;
+    background-color: #E5E7E9;
+    font-size: 17px;
+    padding:10px;
+}
+
+.ContentBody{
+    padding: 50px;
+}

@@ -1,0 +1,9 @@
+.SideNavLink{
+    text-decoration: none;
+    color:black;
+}
+
+.SidebarScroll{
+    overflow-y: scroll;
+    height:100vh;
+}
